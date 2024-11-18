@@ -16,6 +16,9 @@ Tovorni robot s sledenjem
 
 - Sara Peruš
 - Žan Blaznik Lesičnik
+- Nina Plevnik
+- Tilen Smrdel
+- Kaja Gradišek
 
 **Opis projekta**
 
